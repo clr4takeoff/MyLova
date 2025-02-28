@@ -1,3 +1,3 @@
-# FeelsBar-spin-off
+# MyLova
 
-Original project from GitHub: https://github.com/hotmoist/FeelsBar.git
+App code for the MyListener spin-off pilot test.
