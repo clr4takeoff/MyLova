@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "feelsbar-spin-off"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "feelsbar-spin-off-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

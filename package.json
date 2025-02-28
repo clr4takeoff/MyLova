@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "google-auth-library": "^9.14.2"
+  }
+}
